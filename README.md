@@ -2,6 +2,6 @@
 Low Level Design Resources
 
 
-# Parking Lot
+### `Parking Lot`
 
 https://www.youtube.com/watch?v=7IX84K9g23U
