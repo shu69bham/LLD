@@ -1,5 +1,5 @@
 # LLD
-Low Level Design Resources
+Low Level Design Resources for interview preparation
 
 
 ### `Parking Lot`
