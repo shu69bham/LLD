@@ -7,6 +7,8 @@ https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
 
 https://github.com/donnemartin/system-design-primer
 
+https://github.com/DovAmir/awesome-design-patterns#programming-language-design-patterns
+
 
 ### `Parking Lot`
 
