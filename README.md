@@ -17,4 +17,4 @@ https://www.youtube.com/watch?v=7IX84K9g23U
 
 ### `Elevator`
 
-https://tedweishiwang.github.io/journal/object-oriented-design-elevator.html
+Basic Solution - https://tedweishiwang.github.io/journal/object-oriented-design-elevator.html 
