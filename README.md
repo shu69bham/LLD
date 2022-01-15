@@ -13,3 +13,8 @@ https://github.com/DovAmir/awesome-design-patterns#programming-language-design-p
 ### `Parking Lot`
 
 https://www.youtube.com/watch?v=7IX84K9g23U
+
+
+### `Elevator`
+
+https://tedweishiwang.github.io/journal/object-oriented-design-elevator.html
