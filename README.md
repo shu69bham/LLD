@@ -1,9 +1,13 @@
 # LLD
 Low Level Design Resources for interview preparation
 
-Resources - 
+### `Design Pattern`
 
-https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
+https://refactoring.guru/design-patterns/csharp
+
+### `Resources` 
+
+List of important questions - https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
 
 https://github.com/donnemartin/system-design-primer
 
