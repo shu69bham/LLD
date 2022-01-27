@@ -5,6 +5,8 @@ Low Level Design Resources for interview preparation
 
 https://refactoring.guru/design-patterns/csharp
 
+https://dotnettutorials.net/course/dot-net-design-patterns/
+
 ### `Resources` 
 
 List of important questions - https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
