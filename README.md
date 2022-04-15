@@ -5,6 +5,8 @@ Low Level Design Resources for interview preparation
 
 Best - https://dotnettutorials.net/course/dot-net-design-patterns/
 
+State Design Pattern - https://www.c-sharpcorner.com/UploadFile/ff2f08/state-design-pattern/
+
 https://refactoring.guru/design-patterns/csharp
 
 ### `Resources` 
