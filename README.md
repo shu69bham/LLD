@@ -18,6 +18,10 @@ https://github.com/donnemartin/system-design-primer
 https://github.com/DovAmir/awesome-design-patterns#programming-language-design-patterns
 
 
+### `Logger` -
+
+https://www.youtube.com/watch?v=RljSBrZeJ3w
+
 ### `Parking Lot`
 
 https://www.youtube.com/watch?v=7IX84K9g23U
