@@ -22,6 +22,10 @@ https://github.com/DovAmir/awesome-design-patterns#programming-language-design-p
 
 https://www.youtube.com/watch?v=RljSBrZeJ3w
 
+### `Cache` -
+
+https://www.youtube.com/watch?v=B7iCXl_KSoM
+
 ### `Parking Lot`
 
 https://www.youtube.com/watch?v=7IX84K9g23U
