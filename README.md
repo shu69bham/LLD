@@ -18,7 +18,7 @@ https://github.com/donnemartin/system-design-primer
 https://github.com/DovAmir/awesome-design-patterns#programming-language-design-patterns
 
 
-### `Logger` -
+### `Logger`
 
 https://www.youtube.com/watch?v=RljSBrZeJ3w
 
@@ -28,7 +28,7 @@ However in the above video instead of chain of responsibility pattern, we can us
 
 https://workat.tech/machine-coding/editorial/how-to-design-splitwise-machine-coding-ayvnfo1tfst6
 
-### `Cache` -
+### `Cache`
 
 https://www.youtube.com/watch?v=B7iCXl_KSoM
 
@@ -39,6 +39,10 @@ https://www.youtube.com/watch?v=7IX84K9g23U
 ### `Car/Taxi Booking System`
 
 https://www.youtube.com/watch?v=Yn7C0x5ozx4
+
+### `Vending Machine`
+
+https://leetcode.com/discuss/interview-question/125218/design-a-vending-machine
 
 ### `Elevator`
 
