@@ -21,6 +21,7 @@ https://github.com/DovAmir/awesome-design-patterns#programming-language-design-p
 ### `Logger` -
 
 https://www.youtube.com/watch?v=RljSBrZeJ3w
+
 However in the above video instead of chain of responsibility pattern, we can use factory pattern to directly get the required Logger object
 
 ### `Cache` -
