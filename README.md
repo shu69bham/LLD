@@ -24,6 +24,10 @@ https://www.youtube.com/watch?v=RljSBrZeJ3w
 
 However in the above video instead of chain of responsibility pattern, we can use factory pattern to directly get the required Logger object
 
+### `Splitwise`
+
+https://workat.tech/machine-coding/editorial/how-to-design-splitwise-machine-coding-ayvnfo1tfst6
+
 ### `Cache` -
 
 https://www.youtube.com/watch?v=B7iCXl_KSoM
