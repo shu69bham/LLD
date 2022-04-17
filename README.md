@@ -57,3 +57,5 @@ https://www.youtube.com/watch?v=O_oLtUHlrXM
 https://www.youtube.com/watch?v=Xny0IdvJ-1M&list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW&index=6
 
 ### `Multi Threaded Message queue like KAFKA/RabbitMQ`
+
+https://www.youtube.com/watch?v=4BEzgPlLKTo
