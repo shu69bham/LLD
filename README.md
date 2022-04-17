@@ -1,4 +1,4 @@
-# LLD
+# LLD Preparation Resources
 Low Level Design Resources for interview preparation
 
 ### `Design Pattern`
