@@ -47,3 +47,11 @@ https://leetcode.com/discuss/interview-question/125218/design-a-vending-machine
 ### `Elevator`
 
 Basic Solution - https://tedweishiwang.github.io/journal/object-oriented-design-elevator.html 
+
+### `Locker Management System`
+
+https://www.youtube.com/watch?v=O_oLtUHlrXM
+
+### `Movie Booking System`
+
+### `Multi Threaded Message queue like KAFKA/RabbitMQ`
