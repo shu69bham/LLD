@@ -3,15 +3,15 @@ Low Level Design Resources for interview preparation
 
 ### `Design Pattern`
 
-Best in C# - https://dotnettutorials.net/course/dot-net-design-patterns/
+Best for C# - https://dotnettutorials.net/course/dot-net-design-patterns/
 
 State Design Pattern - https://www.c-sharpcorner.com/UploadFile/ff2f08/state-design-pattern/
 
-https://refactoring.guru/design-patterns/csharp
+Alternate resource for design patterns - https://refactoring.guru/design-patterns/csharp
 
 ### `Resources` 
 
-Important LLD links by Prasad Gujar - https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
+**Important LLD links by Prasad Gujar** - https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
 
 https://github.com/donnemartin/system-design-primer
 
